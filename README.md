@@ -77,17 +77,17 @@ The Library Management System enables administrators and librarians to easily ad
 
 2. Add New Book: Click the + Add Book button on the dashboard. Fill in the book details (Title, Author, ISBN, Category, and Number of Copies).
 
-3. View/Edit/Delete:
+**3. View/Edit/Delete:**
 * The main table allows you to quickly see the status (Available/Out of Stock).
 * Use the action buttons next to a book record to view details, edit the information, or delete the record.
 
 **🧑‍🎓 2. Managing Members (Students/Users)**
 
-**Access: Click the "Students" link in the navigation bar to access the Student Management Dashboard.**
+1. Access: Click the "Students" link in the navigation bar to access the Student Management Dashboard.
 
-**Add New Student: Click the + Add New Student button to register a new library member.**
+2. Add New Student: Click the + Add New Student button to register a new library member.
 
-**Search/Filter: Use the search bar to find students by name or ID, or use the filter tabs (e.g., "1st Year", "4th Year") to segment the user list.**
+3. Search/Filter: Use the search bar to find students by name or ID, or use the filter tabs (e.g., "1st Year", "4th Year") to segment the user list.
 
 **🔄 3. Processing Transactions**
 
@@ -96,7 +96,7 @@ The Library Management System enables administrators and librarians to easily ad
 * Returning: Process a book return, which clears the transaction and increments the available copy count.
 
 # 🎀Contributors
-**SALTIVAN, GENNIE ANNE A.** *_4B_*
+**SALTIVAN, GENNIE ANNE A.** **_4B_**
 
 # ©️License
 **This Library Management System was developed for educational purposes as part of the Midterm Examination.**
