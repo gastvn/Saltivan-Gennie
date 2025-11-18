@@ -3,12 +3,12 @@
 This Laravel-based CRUD MVC web application was created to efficiently manage library resources, including books, members, and borrowing/returning transactions. It was developed as part of the Midterm Examination for the IT course in SYSTEM INTEGRATION.
 # 🔖Objectives
 The Library Management System enables administrators and librarians to easily add, view, edit, and remove records while also tracking book borrowing and return activities. It is built using the Model-View-Controller (MVC) design pattern to ensure a well-structured and maintainable system.
-# 📌Features / Functionality 
-•	Add, edit, delete, and view detailed book information
-•	Manage member records, including students, teachers, and other users
-•	Search and filter books quickly for easier access
-•	Responsive and user-friendly interface built with Blade templates
-•	Supports database migration and seeding for smooth setup
+## ✨ Features / Functionality
+* **Book Management:** Add, edit, delete, and view detailed book information (CRUD operations).
+* **Member Management:** Manage member records, including students, teachers, and other users.
+* **Search & Filtering:** Users can search and filter books quickly for easier access.
+* **User Interface:** Features a responsive and user-friendly interface built with Laravel's Blade templates.
+* **Setup:** Supports database migration and seeding for smooth initial setup and deployment.
    **Model (M)**
     -Book.php
     -Borrowing.php
