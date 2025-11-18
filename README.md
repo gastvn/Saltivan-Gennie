@@ -32,16 +32,16 @@ The Library Management System enables administrators and librarians to easily ad
 | Delete | DELETE | Removes a record from the collection. | `/books/{id}` |
 # Installation Instructions 
 1. Clone the repository
-      -git clone https://github.com/<your-username>/SALTIVAN-LIB-TPS.git
-      - cd SALTIVAN-LIB-TPS¬
-    2. Install Dependencies composer install npm install 
-    3.Create Environment File cp.env.example .env 
-    4.Generate application key php artisan key: generate 
-    5.Set up database connection *Open .env and update: 
-       DB_DATABASE=laravel_db 
-       DB_USERNAME=root 
-       DB_PASSWORD=
-    6. Run Migration Seeders php artisan migrate –seed
-    7. Start development serve php artisan serve
-    8. Access the app Open in browser:http://localhost:8000
+-git clone https://github.com/<your-username>/SALTIVAN-LIB-TPS.git
+- cd SALTIVAN-LIB-TPS¬
+2. Install Dependencies composer install npm install 
+3.Create Environment File cp.env.example .env 
+4.Generate application key php artisan key: generate 
+5.Set up database connection *Open .env and update: 
+-DB_DATABASE=laravel_db 
+-DB_USERNAME=root 
+-DB_PASSWORD=
+6. Run Migration Seeders php artisan migrate –seed
+7. Start development serve php artisan serve
+8. Access the app Open in browser:http://localhost:8000
 
