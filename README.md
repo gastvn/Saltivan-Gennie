@@ -10,16 +10,16 @@ The Library Management System enables administrators and librarians to easily ad
 * **User Interface:** Features a responsive and user-friendly interface built with Laravel's Blade templates.
 * **Setup:** Supports database migration and seeding for smooth initial setup and deployment.
   
-**Model (M)**
+* **Model (M)**
     -Book.php
     -Borrowing.php
     -Students.php
     -User.php
- **View (V)**
+ * **View (V)**
     -resources/views/books/index.blade.php
     -resources/views/books/create.blade.php
     --resources/views/books/show.blade.php
- **Controller (C)**
+ * **Controller (C)**
     -BookController.php
     -BorrowingController.php
     -Controller.php
