@@ -72,5 +72,5 @@ The Library Management System enables administrators and librarians to easily ad
 ### Student Management Dashboard
 A view of the main dashboard for managing student records.
 
-![Student Management Dashboard](images/students-screenshot.png)
+![Student Management Dashboard](Screenshot20251029233107.png)
 
