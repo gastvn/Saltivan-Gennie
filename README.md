@@ -23,9 +23,10 @@ The Library Management System enables administrators and librarians to easily ad
     -BorrowingController.php
     -Controller.php
     -StudentController.php
-# CRUD Operations
-| :--- Operation |:---: | HTTP Method | :---:	| Description | :---: |	Example Route ---: |
-Create	POST	Adds a new record to the collection.	/books
-Read	Get	Retrieves and displays a list of records.	/books
-Update	PUT/PATCH	Modifies the details of an existing record.	/books {id}
-Delete 	DELETE	Removes a record from the collection.	/books {id}
+## CRUD Operations
+| Operation | HTTP Method | Description | Example Route |
+| :--- | :---: | :--- | :--- |
+| Create | POST | Adds a new record to the collection. | `/books` |
+| Read | GET | Retrieves and displays a list of records. | `/books` |
+| Update | PUT/PATCH | Modifies the details of an existing record. | `/books/{id}` |
+| Delete | DELETE | Removes a record from the collection. | `/books/{id}` |
