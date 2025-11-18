@@ -96,7 +96,7 @@ The Library Management System enables administrators and librarians to easily ad
 * Returning: Process a book return, which clears the transaction and increments the available copy count.
 
 # 🎀Contributors
-**SALTIVAN, GENNIE ANNE A.**
+**SALTIVAN, GENNIE ANNE A.** *_4B_*
 
 # ©️License
 **This Library Management System was developed for educational purposes as part of the Midterm Examination.**
