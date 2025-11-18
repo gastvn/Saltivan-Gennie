@@ -24,7 +24,7 @@ The Library Management System enables administrators and librarians to easily ad
     -Controller.php
     -StudentController.php
 # CRUD Operations
-Operation	HTTP Method	Description	Example Route
+:--- Operation :---: HTTP Method :---:	Description :---:	Example Route ---:
 Create	POST	Adds a new record to the collection.	/books
 Read	Get	Retrieves and displays a list of records.	/books
 Update	PUT/PATCH	Modifies the details of an existing record.	/books {id}
