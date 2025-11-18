@@ -30,9 +30,8 @@ The Library Management System enables administrators and librarians to easily ad
 | Read | GET | Retrieves and displays a list of records. | `/books` |
 | Update | PUT/PATCH | Modifies the details of an existing record. | `/books/{id}` |
 | Delete | DELETE | Removes a record from the collection. | `/books/{id}` |
-## 🚀 Installation Instructions
 
-To set up this Laravel-based application locally, follow these steps:
+## 🚀 Installation Instructions
 
 1.  **Clone the Repository**
     ```bash
