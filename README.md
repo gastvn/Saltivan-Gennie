@@ -1,4 +1,4 @@
-# LIBRARY MANAGEMENT SYSTEM 
+# 📚LIBRARY MANAGEMENT SYSTEM 
 # Description / Overview 
 This Laravel-based CRUD MVC web application was created to efficiently manage library resources, including books, members, and borrowing/returning transactions. It was developed as part of the Midterm Examination for the IT course in SYSTEM INTEGRATION.
 # Objectives
@@ -38,47 +38,32 @@ The Library Management System enables administrators and librarians to easily ad
     git clone [https://github.com/](https://github.com/)<your-username>/SALTIVAN-LIB-TPS.git
     cd SALTIVAN-LIB-TPS
     ```
-
 2.  **Install Dependencies**
-    Run the following commands to install the required PHP and Node.js packages:
     ```bash
     composer install
     npm install
     ```
-
 3.  **Create Environment File**
-    Copy the example environment file to create your local `.env` configuration:
     ```bash
     cp .env.example .env
     ```
-
 4.  **Generate Application Key**
-    Generate a unique application key for security:
     ```bash
     php artisan key:generate
     ```
-
 5.  **Set Up Database Connection**
-    Open the newly created `.env` file and update the following database connection details:
     ```env
     DB_DATABASE=laravel_db
     DB_USERNAME=root
     DB_PASSWORD=
     ```
-    *(Adjust values as necessary for your local environment)*
-
 6.  **Run Migration and Seeders**
-    Execute the migrations to create the database tables and run the seeders to populate initial data:
     ```bash
     php artisan migrate --seed
     ```
-
 7.  **Start Development Server**
-    Start the local development server:
     ```bash
     php artisan serve
     ```
-
 8.  **Access the Application**
-    Open your browser and navigate to the following URL to access the application:
     [http://localhost:8000](http://localhost:8000)
