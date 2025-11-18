@@ -72,6 +72,7 @@ The Library Management System enables administrators and librarians to easily ad
 
 # 🚀 Usage
 **📚 1. Managing Books (The Collection)**
+
 **Access: Click the "Books" link in the navigation bar to view the main Book Management Dashboard.**
 
 **Add New Book: Click the + Add Book button on the dashboard. Fill in the book details (Title, Author, ISBN, Category, and Number of Copies).**
