@@ -69,3 +69,10 @@ The Library Management System enables administrators and librarians to easily ad
     ```
 8.  **Access the Application**
     [http://localhost:8000](http://localhost:8000)
+
+# 🎀Contributors
+**SALTIVAN, GENNIE ANNE A.**
+
+# ©️License
+**This Library Management System was developed for educational purposes as part of the Midterm Examination.**
+
