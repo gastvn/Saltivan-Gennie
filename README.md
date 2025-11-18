@@ -67,10 +67,3 @@ The Library Management System enables administrators and librarians to easily ad
     ```
 8.  **Access the Application**
     [http://localhost:8000](http://localhost:8000)
-
-## 📸 Screenshots or Code Snippets
-### Student Management Dashboard
-A view of the main dashboard for managing student records.
-
-![Student Management Dashboard](Screenshot 2025-10-29 233107.png)
-
