@@ -68,5 +68,5 @@ The Library Management System enables administrators and librarians to easily ad
 8.  **Access the Application**
     [http://localhost:8000](http://localhost:8000)
 
-# Screenshots or Code Snippets
-![App Screenshot](images/Screenshot 2025-10-29 233107.jpg)
+# 📸Screenshots or Code Snippets
+![App Screenshot](images/Screenshot.jpg)
